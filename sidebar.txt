@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[xal:home|Door43 (xal)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-xal|d43-xal repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-xal/archive/master.zip|d43-xal.zip]]
+
+**Recent Changes**
+{{changes>ns = xal}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/xal|Ethnologue data]]
+
